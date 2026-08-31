@@ -1,7 +1,7 @@
 # Sourya Development Board
 
 <p align="center">
-  <img src="/SOURYA.jpg" alt="Sourya Development Board" width="250"/>
+  <img src="/SOURYA.png" alt="Sourya Development Board" width="250"/>
 </p>
 
 <p align="center">
