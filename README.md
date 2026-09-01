@@ -237,3 +237,8 @@ For updates and documentation, please refer to this repository.
 ---
 
 
+## Author
+
+**Dhanumjay Suragani** — [GitHub Profile](https://github.com/Dhanumjay-Suragani)
+
+
